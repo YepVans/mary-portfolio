@@ -27,7 +27,7 @@ deploy:
   skip_cleanup: true
   local_dir: public
   # target_branch: master
-  fqdn: schnuddelhuddel.de
+  fqdn: yepvans.com
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
