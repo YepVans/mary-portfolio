@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b5271-a67e-44c1-828f-aeab891edae8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/binaries/hugo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/archetypes/default.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-13-project-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-14-project-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-15-project-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-16-project-4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-17-project-5.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-18-project-6.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/portfolio-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/css/maryportfolio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/Cartoonist/Cartoonist_Kooky.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Black.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Black_Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Bold_Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Light_Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Regular_Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Thin.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Thin_Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/200x200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/dinooo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/eye-about-opacity.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/eye-about.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/mary-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/mary-profile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/cabin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/cake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/circus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/game.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/safe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/submarine.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,21 +65,81 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="252">
+              <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-grid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maryportfolio.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -78,11 +182,10 @@
         <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/layouts/index.html" />
         <option value="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
-        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
         <option value="$PROJECT_DIR$/layouts/partials/about.html" />
         <option value="$PROJECT_DIR$/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/config.json" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
       </list>
     </option>
   </component>
@@ -128,24 +231,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mary-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mary-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,12 +338,14 @@
       <workItem from="1509519873831" duration="12594000" />
       <workItem from="1509533022219" duration="1110000" />
       <workItem from="1509534153069" duration="1198000" />
-      <workItem from="1512677611787" duration="875000" />
+      <workItem from="1509703747108" duration="6000" />
+      <workItem from="1512675721678" duration="1458000" />
+      <workItem from="1512679524441" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29147000" />
+    <option name="totallyTimeSpent" value="30239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -333,15 +424,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/css/freelancer.css" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/data/projects/2014-07-13-project-1.yaml" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/content/.gitkeep" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/images/screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/images/tn.png" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/data/projects/2014-07-13-project-1.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/content/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/images/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/images/tn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/about.html" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/about.html" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/css/freelancer.css" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/archetypes/default.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -356,9 +491,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml" />
     <entry file="file://$PROJECT_DIR$/static/img/mary-profile.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/README.md" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/js.html" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/theme.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/theme.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -391,7 +543,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/freelancer.js" />
     <entry file="file://$PROJECT_DIR$/marybuild" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/footer.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/eye-about.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -410,8 +575,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/js.html" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/portfolio-grid.html" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/portfolio-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -419,8 +596,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/index.html" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/js/freelancer.js" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/js/freelancer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -429,7 +618,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -441,14 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -471,31 +658,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="360">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="252">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="18">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>

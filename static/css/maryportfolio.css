@@ -25,7 +25,13 @@ p {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: royalblue;
+    color: #00BFFF;
+}
+
+.btn-success:hover {
+    color: #00BFFF;
+    background-color: rgb(60,60,60);
+    border-color: #11866f;
 }
 
 .btn-success {
