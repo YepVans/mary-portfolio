@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b5271-a67e-44c1-828f-aeab891edae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archetypes/default.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-15-project-3.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-16-project-4.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-17-project-5.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-18-project-6.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/maryportfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/Cartoonist/Cartoonist_Kooky.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Black.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Black_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Bold_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Light_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Regular_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Thin.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/MissionGothic/Mission_Gothic_Thin_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/200x200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/dinooo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/eye-about-opacity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/eye-about.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/mary-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/mary-profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/submarine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-freelancer-theme" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,21 +21,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="396">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -293,12 +249,12 @@
       <workItem from="1509519873831" duration="12594000" />
       <workItem from="1509533022219" duration="1110000" />
       <workItem from="1509534153069" duration="1198000" />
-      <workItem from="1512677611787" duration="461000" />
+      <workItem from="1512677611787" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28733000" />
+    <option name="totallyTimeSpent" value="29147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -528,18 +484,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="36">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
