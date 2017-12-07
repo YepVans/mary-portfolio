@@ -2,50 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b5271-a67e-44c1-828f-aeab891edae8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/binaries/hugo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/archetypes/default.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-13-project-1.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-14-project-2.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-15-project-3.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-16-project-4.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-17-project-5.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/projects/2014-07-18-project-6.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/partials/portfolio-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/css/maryportfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/Cartoonist/Cartoonist_Kooky.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Black.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Black_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Bold_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Light_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Regular_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Thin.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/fonts/MissionGothic/Mission_Gothic_Thin_Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/200x200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/dinooo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/eye-about-opacity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/eye-about.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/mary-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/mary-profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/img/portfolio/submarine.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -108,8 +64,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -186,6 +142,7 @@
         <option value="$PROJECT_DIR$/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/config.json" />
         <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -340,12 +297,12 @@
       <workItem from="1509534153069" duration="1198000" />
       <workItem from="1509703747108" duration="6000" />
       <workItem from="1512675721678" duration="1458000" />
-      <workItem from="1512679524441" duration="503000" />
+      <workItem from="1512679524441" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30239000" />
+    <option name="totallyTimeSpent" value="30363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -681,8 +638,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding />
         </state>
       </provider>
