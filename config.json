@@ -2,7 +2,6 @@
   "baseurl": "/",
   "languageCode": "en-us",
   "title": "Mary",
-  "theme": "hugo-freelancer-theme",
   "params": {
     "name": "Mary",
     "description": "Welcome to my website",

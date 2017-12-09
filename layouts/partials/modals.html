@@ -10,24 +10,24 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
+                <div class="col-lg-11 col-lg-offset-1">
                     <div class="modal-body">
-                        <h2>{{ .title }}</h2>
-                        <hr class="star-primary">
+                        <h2 class="modal-title-mary">{{ .title }}</h2>
                         <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
-                        <p>{{ .description | markdownify }}</p>
+                        <p class="modal-description-mary">{{ .description | markdownify }}</p>
                         <ul class="list-inline item-details">
-                            <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}{{ end }}:
-                                <strong><a href="{{ .clientLink }}">{{ .client }}</a></strong>
+                            <li>
+                                {{ $linkTitleMary := printf "%s" .linkTitle }}
+                                {{ if (eq $linkTitleMary "Image") }}
+                                    <a target="_blank" href="img/portfolio/{{ .img }}"><button class="btn btn-mary">Voir en Taille Réelle</button></a>
+                                {{else}}
+                                    <a target="_blank" href="{{ .link }}"><button class="btn btn-mary">{{ .linkTitle }}</button></a>
+                                {{ end }}
                             </li>
-                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}:
-                                <strong>{{ .date }}</strong>
-                            </li>
-                            <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}:
-                                <strong>{{ .category }}</strong>
-                            </li>
+                            <li class="modal-project-info-mary"><b>Date:</b> {{ .date }}</li>
+                            <li class="modal-project-info-mary"><b>Catégorie:</b> {{ .category }}</li>
                         </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
+                        <button type="button" class="btn btn-success" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
                     </div>
                 </div>
             </div>

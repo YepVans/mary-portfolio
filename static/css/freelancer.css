@@ -22,7 +22,12 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #00BFFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #1E90FF;
 }
 
 h1,
@@ -407,7 +412,8 @@ footer .footer-below {
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 4em;
+    padding-bottom: 25px;
 }
 
 .portfolio-modal .modal-content img {
