@@ -166,7 +166,7 @@ footer .footer-above {
 
 .btn-mary {
     color: white;
-    font-size: 1.3em;
+    font-size: 1.2em;
     background-color: #00BFFF;
     font-family: MissionGothicBold;
 }
@@ -185,5 +185,21 @@ footer .footer-above {
 }
 
 .modal-project-info-mary {
-    font-size: 1.2em;
+    font-size: 1.3em;
+}
+
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    margin-bottom: 30px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }

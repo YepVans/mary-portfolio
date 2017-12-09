@@ -2,26 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b5271-a67e-44c1-828f-aeab891edae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/zef.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-15-project-3.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-16-project-4.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-17-project-5.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-18-project-6.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portfolio/submarine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-freelancer-theme" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/200x200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/bonappetit.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/chameleon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/chaplin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/dustin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/eleven.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/him.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/incredibles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/jake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/kuntzel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/legumes-oublies.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/madcat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/madeinjapan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/portcros.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/powerpuff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/raven.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/rick.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/septembre-en-mer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/triptyque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/twinjet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/uglylove.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/vesus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/wolf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/10-Kuntzel-Deygas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/11-AnimationAnnee.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/12-Rick.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/13-Powerpuff.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/14-Port-cros.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/15-Raven.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/16-Bon-appetit.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/17-Chameleon.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/18-Chaplin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/19-Him.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/2-Jake.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/20-Twin-JET.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/21-Dustin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/22-Tryptique.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/23-Ugly-love.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/24-The-incredibles.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/3-Septembre-en-mer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/4-Eleven.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/5-Wolf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/6-Legumes-oublies.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/7-Made-in-japan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/8-Cartographie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/9-MadCat.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" afterPath="$PROJECT_DIR$/data/projects/1-Zef.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.json" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" afterPath="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" afterPath="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/head.html" afterPath="$PROJECT_DIR$/layouts/partials/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/modals.html" afterPath="$PROJECT_DIR$/layouts/partials/modals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/freelancer.css" afterPath="$PROJECT_DIR$/static/css/freelancer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" afterPath="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/maryportfolio.css" afterPath="$PROJECT_DIR$/static/css/maryportfolio.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/freelancer.js" afterPath="$PROJECT_DIR$/static/js/freelancer.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,62 +73,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="2014-07-13-project-1.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio-grid.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="portfolio-grid.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="198">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-07-14-project-2.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml">
+      <file leaf-file-name="cbpAnimatedHeader.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maryportfolio.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="47" column="72" lean-forward="false" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="72" />
+            <state relative-caret-position="558">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -103,8 +97,18 @@
       <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="306">
+              <caret line="226" column="15" lean-forward="true" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16-Bon-appetit.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/projects/16-Bon-appetit.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -127,6 +131,9 @@
       <find>BaseURL</find>
       <find>email</find>
       <find>category</find>
+      <find>cr</find>
+      <find>portf</find>
+      <find>portfolio-item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,18 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml" />
-        <option value="$PROJECT_DIR$/layouts/about.html" />
-        <option value="$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/about.html" />
-        <option value="$PROJECT_DIR$/config.toml" />
-        <option value="$PROJECT_DIR$/layouts/partials/header.html" />
-        <option value="$PROJECT_DIR$/marybuild" />
-        <option value="$PROJECT_DIR$/layouts/partials/nav.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/index.html" />
-        <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/layouts/index.html" />
         <option value="$PROJECT_DIR$/layouts/partials/about.html" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/data/projects/2014-07-18-project-7.yaml" />
@@ -156,17 +151,48 @@
         <option value="$PROJECT_DIR$/data/projects/2-Jake.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2-Ninja.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2-Rick.yaml" />
-        <option value="$PROJECT_DIR$/static/css/freelancer.css" />
-        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
         <option value="$PROJECT_DIR$/layouts/partials/contact.html" />
-        <option value="$PROJECT_DIR$/layouts/partials/modals.html" />
         <option value="$PROJECT_DIR$/data/projects/1-Dino.yaml" />
-        <option value="$PROJECT_DIR$/data/projects/1-Zef.yaml" />
         <option value="$PROJECT_DIR$/config.json" />
-        <option value="$PROJECT_DIR$/data/projects/2-Zef.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" />
+        <option value="$PROJECT_DIR$/data/projects/2-Zef.yaml" />
+        <option value="$PROJECT_DIR$/data/projects/1-Zef.yaml" />
+        <option value="$PROJECT_DIR$/data/projects/1-Zef.json" />
+        <option value="$PROJECT_DIR$/data/projects/2-Jake.json" />
+        <option value="$PROJECT_DIR$/data/projects/3-Septembre-en-mer.json" />
+        <option value="$PROJECT_DIR$/data/projects/0-template.json" />
+        <option value="$PROJECT_DIR$/data/projects/4-Eleven.json" />
+        <option value="$PROJECT_DIR$/data/projects/5-Wolf.json" />
+        <option value="$PROJECT_DIR$/data/projects/6-Legumes-oublies.json" />
+        <option value="$PROJECT_DIR$/data/projects/7-Made-in-japan.json" />
+        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
+        <option value="$PROJECT_DIR$/data/projects/9-MadCat.json" />
+        <option value="$PROJECT_DIR$/data/projects/12-Rik.json" />
+        <option value="$PROJECT_DIR$/data/projects/11-1950-2000.json" />
+        <option value="$PROJECT_DIR$/data/projects/12-Rick.json" />
         <option value="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/modals.html" />
+        <option value="$PROJECT_DIR$/data/projects/8-Cartographie.json" />
+        <option value="$PROJECT_DIR$/data/projects/11-AnimationAnnee.json" />
+        <option value="$PROJECT_DIR$/data/projects/10-Kuntzel-Deygas.json" />
+        <option value="$PROJECT_DIR$/data/projects/13-Powerpuff.json" />
+        <option value="$PROJECT_DIR$/data/projects/14-Port-cros.json" />
+        <option value="$PROJECT_DIR$/data/projects/15-Raven.json" />
+        <option value="$PROJECT_DIR$/data/projects/17-Chameleon.json" />
+        <option value="$PROJECT_DIR$/data/projects/18-Chaplin.json" />
+        <option value="$PROJECT_DIR$/data/projects/19-Him.json" />
+        <option value="$PROJECT_DIR$/data/projects/21-Dustin.json" />
+        <option value="$PROJECT_DIR$/data/projects/23-Ugly-love.json" />
+        <option value="$PROJECT_DIR$/data/projects/24-The-incredibles.json" />
+        <option value="$PROJECT_DIR$/data/projects/22-Tryptique.json" />
+        <option value="$PROJECT_DIR$/data/projects/20-Twin-JET.json" />
+        <option value="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" />
+        <option value="$PROJECT_DIR$/static/js/cbpAnimatedHeader.min.js" />
+        <option value="$PROJECT_DIR$/static/js/freelancer.js" />
+        <option value="$PROJECT_DIR$/layouts/partials/nav.html" />
+        <option value="$PROJECT_DIR$/static/css/freelancer.css" />
+        <option value="$PROJECT_DIR$/data/projects/16-Bon-appetit.json" />
       </list>
     </option>
   </component>
@@ -240,29 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mary-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mary-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,6 +281,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mary-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mary-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,15 +352,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/projects" />
       <recent name="$PROJECT_DIR$/static/img/portfolio" />
       <recent name="$PROJECT_DIR$/static/css" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/layouts/partials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
     </key>
   </component>
   <component name="RunManager">
@@ -429,27 +451,27 @@
       <workItem from="1512692853776" duration="172000" />
       <workItem from="1512693078990" duration="1492000" />
       <workItem from="1512825127365" duration="48000" />
-      <workItem from="1512825284227" duration="7500000" />
+      <workItem from="1512825284227" duration="8399000" />
+      <workItem from="1512835073295" duration="11579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47649000" />
+    <option name="totallyTimeSpent" value="60127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18274933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1773585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -458,6 +480,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -479,171 +502,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.toml" />
-    <entry file="file://$PROJECT_DIR$/static/img/mary-profile.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/README.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/theme.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js" />
-    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js" />
-    <entry file="file://$PROJECT_DIR$/static/img/mary-profile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/freelancer.js" />
-    <entry file="file://$PROJECT_DIR$/marybuild" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/eye-about.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/eye-about-opacity.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/partials/portfolio-grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="96" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/static/js/freelancer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/exampleSite/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-freelancer-theme/archetypes/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/js.html" />
-    <entry file="file://$PROJECT_DIR$/static/js/classie.js" />
-    <entry file="file://$PROJECT_DIR$/.travis.yml" />
-    <entry file="file://$PROJECT_DIR$/static/img/portfolio/cake.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/portfolio/dino.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/portfolio/circus.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/mary-01.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/font-awesome/css/font-awesome.css" />
-    <entry file="file://$PROJECT_DIR$/data/projects/2014-07-18-project-7.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml">
+    <entry file="file://$PROJECT_DIR$/data/projects/2014-07-18-project-7.yaml" />
+    <entry file="file://$PROJECT_DIR$/data/projects/2-Zef.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -659,14 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/2-Jake.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="108" lean-forward="false" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/2-Jake.yaml" />
     <entry file="file://$PROJECT_DIR$/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -675,25 +534,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="846">
           <caret line="47" column="72" lean-forward="false" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="72" />
           <folding />
         </state>
@@ -704,30 +547,8 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/2-Rick.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/1-Dino.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/modals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/2-Rick.yaml" />
+    <entry file="file://$PROJECT_DIR$/data/projects/1-Dino.yaml" />
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -741,26 +562,309 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml">
+    <entry file="file://$PROJECT_DIR$/data/projects/2-Zef.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml">
+    <entry file="file://$PROJECT_DIR$/data/projects/2-Jake.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/legumes-oublies.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/5-Wolf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/4-Eleven.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3-Septembre-en-mer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/6-Legumes-oublies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/7-Made-in-japan.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="185" column="0" lean-forward="true" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/0-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/9-MadCat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/1-Zef.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/10-Kuntzel-Deygas.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/11-AnimationAnnee.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/12-Rick.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/8-Cartographie.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/13-Powerpuff.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/14-Port-cros.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/15-Raven.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/19-Him.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/18-Chaplin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/17-Chameleon.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/23-Ugly-love.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/24-The-incredibles.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/22-Tryptique.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/21-Dustin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/20-Twin-JET.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="253" lean-forward="false" selection-start-line="10" selection-start-column="253" selection-end-line="10" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/freelancer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="226" column="15" lean-forward="true" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/16-Bon-appetit.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -8,17 +8,32 @@
                 </div>
             </div>
         </div>
+
         <div class="container">
             <div class="row">
                 <div class="col-lg-11 col-lg-offset-1">
                     <div class="modal-body">
                         <h2 class="modal-title-mary">{{ .title }}</h2>
-                        <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+
+                        {{ $contentType := printf "%s" .linkTitle }}
+
+                        {{ if (eq $contentType "Youtube") }}
+                            <div class="videoWrapper">
+                                <iframe src="{{.youtube}}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                            </div>
+                        {{ else if (eq $contentType "Behance") }}
+                            <h1>SOON</h1>
+                        {{else}}
+                           <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                        {{ end }}
+
+
                         <p class="modal-description-mary">{{ .description | markdownify }}</p>
+                        <hr/>
                         <ul class="list-inline item-details">
                             <li>
-                                {{ $linkTitleMary := printf "%s" .linkTitle }}
-                                {{ if (eq $linkTitleMary "Image") }}
+                                {{ $contentType := printf "%s" .linkTitle }}
+                                {{ if (eq $contentType "Image") }}
                                     <a target="_blank" href="img/portfolio/{{ .img }}"><button class="btn btn-mary">Voir en Taille Réelle</button></a>
                                 {{else}}
                                     <a target="_blank" href="{{ .link }}"><button class="btn btn-mary">{{ .linkTitle }}</button></a>
