@@ -20,6 +20,12 @@ h2 {
     text-shadow: 4px 4px #000000;
 }
 
+.mary-cover {
+    display: inline;
+    object-fit: cover;
+    height: 250px;
+}
+
 p {
 }
 

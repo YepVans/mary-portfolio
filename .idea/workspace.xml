@@ -2,60 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b5271-a67e-44c1-828f-aeab891edae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/200x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/bonappetit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/chameleon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/chaplin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/dustin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/eleven.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/him.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/incredibles.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/jake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/kuntzel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/legumes-oublies.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/madcat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/madeinjapan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/portcros.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/powerpuff.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/raven.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/rick.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/septembre-en-mer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/triptyque.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/twinjet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/uglylove.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/vesus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/portfolio/wolf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/10-Kuntzel-Deygas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/11-AnimationAnnee.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/12-Rick.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/13-Powerpuff.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/14-Port-cros.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/15-Raven.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/16-Bon-appetit.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/17-Chameleon.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/18-Chaplin.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/19-Him.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/2-Jake.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/20-Twin-JET.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/21-Dustin.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/22-Tryptique.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/23-Ugly-love.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/24-The-incredibles.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/3-Septembre-en-mer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/4-Eleven.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/5-Wolf.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/6-Legumes-oublies.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/7-Made-in-japan.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/8-Cartographie.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/projects/9-MadCat.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/projects/2014-07-14-project-2.yaml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/projects/2014-07-13-project-1.yaml" afterPath="$PROJECT_DIR$/data/projects/1-Zef.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/modals.html" afterPath="$PROJECT_DIR$/layouts/partials/modals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/head.html" afterPath="$PROJECT_DIR$/layouts/partials/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" afterPath="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/maryportfolio.css" afterPath="$PROJECT_DIR$/static/css/maryportfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/freelancer.js" afterPath="$PROJECT_DIR$/static/js/freelancer.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,22 +23,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="portfolio-grid.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="270">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cbpAnimatedHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.js">
+      <file leaf-file-name="portfolio-grid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="36">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,18 +48,28 @@
       <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="226" column="15" lean-forward="true" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+            <state relative-caret-position="288">
+              <caret line="233" column="42" lean-forward="false" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16-Bon-appetit.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="16-Bon-appetit.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/projects/16-Bon-appetit.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="162">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maryportfolio.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -134,6 +95,8 @@
       <find>cr</find>
       <find>portf</find>
       <find>portfolio-item</find>
+      <find>content</find>
+      <find>portfolio-link</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,7 +110,6 @@
         <option value="$PROJECT_DIR$/data/projects/2014-07-18-project-7.yaml" />
         <option value="$PROJECT_DIR$/data/projects/Jake.yaml" />
         <option value="$PROJECT_DIR$/data/projects/Dino.yaml" />
-        <option value="$PROJECT_DIR$/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/data/projects/2-Jake.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2-Ninja.yaml" />
         <option value="$PROJECT_DIR$/data/projects/2-Rick.yaml" />
@@ -166,12 +128,10 @@
         <option value="$PROJECT_DIR$/data/projects/5-Wolf.json" />
         <option value="$PROJECT_DIR$/data/projects/6-Legumes-oublies.json" />
         <option value="$PROJECT_DIR$/data/projects/7-Made-in-japan.json" />
-        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
         <option value="$PROJECT_DIR$/data/projects/9-MadCat.json" />
         <option value="$PROJECT_DIR$/data/projects/12-Rik.json" />
         <option value="$PROJECT_DIR$/data/projects/11-1950-2000.json" />
         <option value="$PROJECT_DIR$/data/projects/12-Rick.json" />
-        <option value="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
         <option value="$PROJECT_DIR$/layouts/partials/modals.html" />
         <option value="$PROJECT_DIR$/data/projects/8-Cartographie.json" />
         <option value="$PROJECT_DIR$/data/projects/11-AnimationAnnee.json" />
@@ -193,6 +153,9 @@
         <option value="$PROJECT_DIR$/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/static/css/freelancer.css" />
         <option value="$PROJECT_DIR$/data/projects/16-Bon-appetit.json" />
+        <option value="$PROJECT_DIR$/layouts/partials/portfolio-grid.html" />
+        <option value="$PROJECT_DIR$/static/css/maryportfolio.css" />
+        <option value="$PROJECT_DIR$/layouts/partials/head.html" />
       </list>
     </option>
   </component>
@@ -452,12 +415,12 @@
       <workItem from="1512693078990" duration="1492000" />
       <workItem from="1512825127365" duration="48000" />
       <workItem from="1512825284227" duration="8399000" />
-      <workItem from="1512835073295" duration="11579000" />
+      <workItem from="1512835073295" duration="14747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60127000" />
+    <option name="totallyTimeSpent" value="63295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -513,14 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -619,14 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="185" column="0" lean-forward="true" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -819,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -845,26 +784,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
+    <entry file="file://$PROJECT_DIR$/data/projects/16-Bon-appetit.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/cbpAnimatedHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="226" column="15" lean-forward="true" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+        <state relative-caret-position="288">
+          <caret line="233" column="42" lean-forward="false" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects/16-Bon-appetit.json">
+    <entry file="file://$PROJECT_DIR$/layouts/partials/portfolio-grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="36">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/maryportfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
